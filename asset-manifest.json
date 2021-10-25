@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/sordowet/image-joiner/static/css/main.ceff3661.chunk.css",
+    "main.js": "/sordowet/image-joiner/static/js/main.ebd66a06.chunk.js",
+    "main.js.map": "/sordowet/image-joiner/static/js/main.ebd66a06.chunk.js.map",
+    "runtime-main.js": "/sordowet/image-joiner/static/js/runtime-main.b8723711.js",
+    "runtime-main.js.map": "/sordowet/image-joiner/static/js/runtime-main.b8723711.js.map",
+    "static/js/2.0f90cfc2.chunk.js": "/sordowet/image-joiner/static/js/2.0f90cfc2.chunk.js",
+    "static/js/2.0f90cfc2.chunk.js.map": "/sordowet/image-joiner/static/js/2.0f90cfc2.chunk.js.map",
+    "static/js/3.97b65e8f.chunk.js": "/sordowet/image-joiner/static/js/3.97b65e8f.chunk.js",
+    "static/js/3.97b65e8f.chunk.js.map": "/sordowet/image-joiner/static/js/3.97b65e8f.chunk.js.map",
+    "index.html": "/sordowet/image-joiner/index.html",
+    "static/css/main.ceff3661.chunk.css.map": "/sordowet/image-joiner/static/css/main.ceff3661.chunk.css.map",
+    "static/js/2.0f90cfc2.chunk.js.LICENSE.txt": "/sordowet/image-joiner/static/js/2.0f90cfc2.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b8723711.js",
+    "static/js/2.0f90cfc2.chunk.js",
+    "static/css/main.ceff3661.chunk.css",
+    "static/js/main.ebd66a06.chunk.js"
+  ]
+}
